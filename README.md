@@ -16,7 +16,7 @@ Suivez ces étapes pour configurer le projet sur votre machine locale :
 1. **Clonez le repository :**
 
     ```bash
-    git clone https://github.com/Zoubeir7/Gestion-projet.git
+    git clone https://github.com/Zoubeir7/gestion-projet.git
     ```
 
 2. **Installez les dépendances :**
