@@ -33,7 +33,7 @@ Suivez ces étapes pour configurer le projet sur votre machine locale :
 
 
 ## Diagramme de classe
-![Diagramme de Classes](assets\D-class.png)
+![Diagramme de Classes](./assets\D-class.png)
 
 
 
